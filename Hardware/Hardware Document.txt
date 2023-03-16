@@ -2,3 +2,4 @@ This is bero's line
 First change for Jad on the hardware file
 Bero's second line
 this is alain testing at b2
+Second change for Jad ont hardware file
