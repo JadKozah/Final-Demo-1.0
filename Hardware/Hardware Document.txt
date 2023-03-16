@@ -4,3 +4,4 @@ Bero's second line
 this is alain testing at b2
 this is alain testing at b3
 Hi Alina it's bero
+Second change for Jad ont hardware file
